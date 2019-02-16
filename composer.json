@@ -1,0 +1,19 @@
+{
+  "name": "toma/sparky-plagin",
+  "description": "sparky plagin",
+  "type": "project",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Trifunov Tomilsav",
+      "email": "trifunovt@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Inc\\": "./inc"
+    }
+  }
+}

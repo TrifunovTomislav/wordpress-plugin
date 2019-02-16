@@ -1,0 +1,28 @@
+#sparky-testimonial-form {
+  .field-container {
+    position: relative;
+    margin-bottom: 20px;
+  }
+
+  .field-msg {
+    display: none;
+    left: 2px;
+    bottom: -14px;
+    font-size: 9px;
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+
+    &.show {
+      display: block;
+    }
+  }
+
+  .error {
+    color: rgba(219, 3, 3, 0.795);
+  }
+
+  .success {
+    color: rgb(13, 224, 108);
+  }
+}

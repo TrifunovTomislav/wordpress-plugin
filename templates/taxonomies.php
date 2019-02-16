@@ -1,0 +1,1 @@
+<h1>taxonomies manager</h1>
